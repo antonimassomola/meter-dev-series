@@ -79,7 +79,7 @@ const provider = new HDWalletProvider(
 node deploy.js
 ````
 
-Once the script is executed (compiled & deployed to the Meter Testnet network), in your console you will something similar to this:
+Once the script is executed (compiled & deployed to the Meter Testnet network), in your console you will see something similar to this:
 
 ````bash
 ➜  solidity-meter-boilerplate node deploy.js
