@@ -22,6 +22,7 @@ First of all you need to create some addresses using a Mnemonic generator
 
 1. Open Mestamask and click on "Import Account"
 ![](./img/tutorial1/meta1.png =250x)
+<img src="./img/tutorial1/meta1.png" width="200">
 
 2. Paste your private key
 ![](./img/tutorial1/meta2.png=250x)
