@@ -21,11 +21,10 @@ First of all you need to create some addresses using a Mnemonic generator
 ### Metamask configuration
 
 1. Open Mestamask and click on "Import Account"
-![](./img/tutorial1/meta1.png =250x)
 <img src="./img/tutorial1/meta1.png" width="200">
 
 2. Paste your private key
-![](./img/tutorial1/meta2.png=250x)
+<img src="./img/tutorial1/meta2.png" width="200">
 
 3. Add Meter Test network:
     Network name: Meter Testnet
@@ -33,15 +32,15 @@ First of all you need to create some addresses using a Mnemonic generator
     Chain ID: 101
     Currency Symbol: MTR
     Block explorer: https://scan-warringstakes.meter.io/
-![](./img/tutorial1/meta3.png=250x)
+<img src="./img/tutorial1/meta3.png" width="200">
 
 4. Add MTRG Testnet contract (click on "Add Token")
     Token Contract Address: 0x8A419Ef4941355476cf04933E90Bf3bbF2F73814
     Token Symbol: MTRG
-![](./img/tutorial1/meta4.png=250x)
+<img src="./img/tutorial1/meta4.png" width="200">
 
 5. MTR & MTRG should appear on the "Assets" tab
-![](./img/tutorial1/meta5.png=250x)
+<img src="./img/tutorial1/meta5.png" width="200">
 
 ### Receive some MTR & MTRG tokens
 
