@@ -21,10 +21,10 @@ First of all you need to create some addresses using a Mnemonic generator
 ### Metamask configuration
 
 1. Open Mestamask and click on "Import Account"
-![](.img/tutorial1/meta1.png)
+![](./img/tutorial1/meta1.png)
 
 2. Paste your private key
-![](.img/tutorial1/meta2.png)
+![](./img/tutorial1/meta2.png)
 
 3. Add Meter Test network:
     Network name: Meter Testnet
@@ -32,15 +32,15 @@ First of all you need to create some addresses using a Mnemonic generator
     Chain ID: 101
     Currency Symbol: MTR
     Block explorer: https://scan-warringstakes.meter.io/
-![](.img/tutorial1/meta3.png)
+![](./img/tutorial1/meta3.png)
 
 4. Add MTRG Testnet contract (click on "Add Token")
     Token Contract Address: 0x8A419Ef4941355476cf04933E90Bf3bbF2F73814
     Token Symbol: MTRG
-![](.img/tutorial1/meta4.png)
+![](./img/tutorial1/meta4.png)
 
 5. MTR & MTRG should appear on the "Assets" tab
-![](.img/tutorial1/meta5.png)
+![](./img/tutorial1/meta5.png)
 
 ### Receive some MTR & MTRG tokens
 
@@ -122,10 +122,10 @@ You can now view demo-react in the browser.
 Note that the development build is not optimized.
 To create a production build, use npm run build.
 
-Open your browser and browse to the your local URL. Be sure that Metamask is connected to the Meter Testnet.
+Open your browser and browse to the URL shown above. Be sure that Metamask is connected to the Meter Testnet.
 You should see the text "myString value is: Meter String Demo"
 Meter String Demo has been retrieved from the contract that you have recently deployed.
 
 ## Conclusion
 
-In this first tutorial you've learned how to compile and deploy a contract to the Meter Testnet. The contract was very simple and only had some variables that were publicly available to read. In the next tutorial you will learn how to transfer tokens and modify storage variables. You will also learn how to test your contract with Mocha and Ganache.
+In this first tutorial you've learned how to compile and deploy a contract to the Meter Testnet. The contract is very simple and only has some variables that are publicly available to read. In the next tutorial you will learn how to transfer tokens and modify storage variables. You will also learn how to test your contract with Mocha and Ganache.
